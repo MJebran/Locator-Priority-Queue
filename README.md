@@ -58,13 +58,6 @@ Returns a copy of all the pending entries:
 | `initialize()`| O(n)           |
 | `get_all()`  | O(n)            |
 
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
-## Contributions
-
-Contributions are welcome! Feel free to submit a pull request or open an issue if you encounter any problems.
 
 ## Testing
 
